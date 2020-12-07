@@ -1,6 +1,6 @@
 # Speedometer Android
 
-A lightweight circular indicator view library for Android
+A lightweight circular indicator view library for Android with animation, which is used for creating speedometer Android applications.
 
 [![](https://jitpack.io/v/ibrahimsn98/speedometer.svg)](https://jitpack.io/#ibrahimsn98/speedometer)
 [![](https://androidweekly.net/issues/issue-443/badge)](https://androidweekly.net/issues/issue-443)
